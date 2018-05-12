@@ -1,0 +1,33 @@
+_repo: Alcools_15462
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Apollinaire, Guillaume
+    aliases:
+    - Kostrowitzky, Wilhelm Apollinaris de
+    - Apollinaris de Kostrowitzky, Wilhelm
+    - De Kostrowisky, Guillaume
+    - Kostrowisky, Guillaume de
+    birthdate: 1880
+    deathdate: 1918
+    gutenberg_agent_id: '6075'
+    url: http://www.gutenberg.org/2009/agents/6075
+    wikipedia: http://en.wikipedia.org/wiki/Guillaume_Apollinaire
+description: ''
+gutenberg_bookshelf: FR Poésie
+gutenberg_issued: '2005-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15462'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Poetry'
+title: Alcools
+url: http://www.gutenberg.org/ebooks/15462
