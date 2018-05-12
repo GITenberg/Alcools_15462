@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6075
     wikipedia: http://en.wikipedia.org/wiki/Guillaume_Apollinaire
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15462#Alcools
 gutenberg_bookshelf: FR Poésie
 gutenberg_issued: '2005-03-25'
 gutenberg_type: Text
